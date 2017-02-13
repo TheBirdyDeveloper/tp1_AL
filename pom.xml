@@ -74,4 +74,14 @@
     <connection>scm:git:ssh://git@github.com:TheBirdyDeveloper/tp1_AL.git</connection>
     <developerConnection>scm:git:ssh://git@github.com:TheBirdyDeveloper/tp1_AL.git</developerConnection>
   </scm>
+   <developers>
+    <developer>
+      <name>guihaireClement</name>
+      <email>tehbirdy3@gmail.com</email>
+      <roles>
+        <role>Admin</role>
+        <role>Developper</role>
+      </roles>
+    </developer>
+  </developers>
 </project>
